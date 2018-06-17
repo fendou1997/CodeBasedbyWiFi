@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\PowerMonitor\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\PowerMonitor\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\PowerMonitor\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\PowerMonitor\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\PowerMonitor\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\大创资料\PowerMonitor\Model\bin\Debug\Model.dll
+E:\大创资料\PowerMonitor\Model\bin\Debug\Model.pdb
+E:\大创资料\PowerMonitor\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\大创资料\PowerMonitor\Model\obj\Debug\Model.dll
+E:\大创资料\PowerMonitor\Model\obj\Debug\Model.pdb
